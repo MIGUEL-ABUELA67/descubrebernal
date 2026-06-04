@@ -12,7 +12,7 @@ body{
 
 
 header{
-    background-image: url("imagenes/header.jpg");
+    background-image: url("IMAGENES/header.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -33,7 +33,7 @@ header p{
 
 
 nav{
-    background-image: url("imagenes/nav.jpg");
+    background-image: url("IMAGENES/nav.jpg");
     background-size: cover;
     background-position: center;
     padding: 20px;
@@ -63,7 +63,7 @@ main{
 
 section{
     flex: 3;
-    background-image: url("imagenes/section.jpg");
+    background-image: url("IMAGENES/section.jpg");
     background-size: cover;
     background-position: center;
     color: white;
@@ -118,7 +118,7 @@ td{
 
 aside{
     flex: 1;
-    background-image: url("imagenes/aside.jpg");
+    background-image: url("IMAGENES/aside.jpg");
     background-size: cover;
     background-position: center;
     color: white;
@@ -139,7 +139,7 @@ aside p{
 
 
 footer{
-    background-image: url("imagenes/footer.jpg");
+    background-image: url("IMAGENES/footer.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
